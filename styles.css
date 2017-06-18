@@ -37,7 +37,6 @@ p {
 .links{
 	text-align: center;
 	margin-left: 30px;
-	margin-right: 30px;
 	font-family: Roboto;
 	font-size: 12px;
 	color: #f2f4f7;
@@ -50,6 +49,13 @@ a:hover {
 .link-space{
 	margin-left: 20px;
 	margin-right:20px;
+}
+
+.download-link{
+	color: #f2f4f7;
+	font-family: Roboto;
+	font-size: 12px;
+
 }
 .logo{
 	align-content: center;
@@ -119,7 +125,9 @@ li{
    
 	h3{font-size: 36px;}
 	h2{font-size: 18px;}
+ 
  .footer{
 	background-color: #a3a3c2
+
  }
 }

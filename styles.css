@@ -1,4 +1,6 @@
-
+body{
+	background-color: #f2f4f7;
+}
 
 .image-pressbild{
 	width: 200px;
@@ -13,7 +15,7 @@ h1 {
 	font-family: Roboto;
 	font-size: 24px;
 	text-align: center;
-	color: #696969;
+	color: #f2f4f7;
 }
 
 
@@ -21,7 +23,7 @@ h2 {
 	font-family: Roboto;
 	font-size: 18px;
 	text-align: center;
-	color: #696969;
+	color: #f2f4f7;
 
 }
 
@@ -87,21 +89,17 @@ li{
 }
 
 .footer{
-	background-color: lightgray;
+	background-color: #4b6082;
 	margin-top: 15px;
+	color: #f2f4f7;
 }
 .icon{
 	margin-right: 15px;
 }
 
-@media only screen and (min-width: 480px) {
-   
-    h1{	font-size: 36px;}
-    .footer{
-    	background-color: #a3a3c2
-    }
-}
 
-.jumbotron text-center{
-	background-color: red;
+.jumbotron {
+	background-color: #4b6082;
+	color: #f2f4f7;
 	}
+.

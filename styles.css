@@ -1,6 +1,4 @@
-body{
-	background-color: #f0f0f5;
-}
+
 
 .image-pressbild{
 	width: 200px;
@@ -52,6 +50,7 @@ a:hover {
 	margin-right:20px;
 }
 .logo{
+	align-content: center;
 	width: 100px;
 	margin-top: 15px;
 }
@@ -77,8 +76,7 @@ li{
 .jobs{
 	text-align: center;
 	margin-top:12px;
-	margin-left: 70px;
-	margin-right: 70px;
+	
 }
 .text-box{
 	margin:0;
@@ -103,3 +101,7 @@ li{
     	background-color: #a3a3c2
     }
 }
+
+.jumbotron text-center{
+	background-color: red;
+	}

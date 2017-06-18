@@ -115,3 +115,10 @@ li{
 	font-family: Roboto;
 	}
 .
+@media only screen and (max-width: 480px) {
+   
+h3{font-size: 36px;}
+ .footer{
+	background-color: #a3a3c2
+ }
+}
